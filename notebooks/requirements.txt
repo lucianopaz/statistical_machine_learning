@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+seaborn>=0.9
